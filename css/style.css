@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Baloo;
+}
+
+.animation-area{
+    background: linear-gradient(to left, #1fa4b6, #bc35e6);
+    width: 100%;
+    height: 100vh;
+}
+
+.box-area{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
